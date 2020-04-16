@@ -1,0 +1,29 @@
+1¡¢best model for multiple subject binary classification£º
+   multiple_subject_binary_classification.h5
+
+2¡¢best model for multiple subject four level classification£º
+   multiple_subject_four_level_classification.h5
+
+3¡¢best model for subject 1 binary classification£º
+   subject_1_binary_classification.h5
+
+4¡¢best model for subject 2 binary classification£º
+   subject_2_binary_classification.h5
+
+5¡¢best model for subject 3 binary classification£º
+   subject_3_binary_classification.h5
+
+6¡¢best model for subject 4 binary classification£º
+   subject_4_binary_classification.h5
+
+7¡¢best model for subject 5 binary classification£º
+   subject_5_binary_classification.h5
+
+8¡¢best model for subject 6 binary classification£º
+   subject_6_binary_classification.h5
+
+9¡¢best model for subject 7 binary classification£º
+   subject_7_binary_classification.h5
+
+10¡¢best model for subject 8 binary classification£º
+   subject_8_binary_classification.h5
