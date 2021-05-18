@@ -6,7 +6,7 @@ The data directory contains the datasets we collected and used, including two Ex
 
 ABP (absolute band power)
 
-RBP ((relative band power)
+RBP (relative band power)
 
 
 ## code
