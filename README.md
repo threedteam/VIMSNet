@@ -12,7 +12,7 @@ RBP (relative band power)
 ## code
 #### loocv.py                                          
 
-###### LOOCV (leave-one-out cross-validation) 
+####### LOOCV (leave-one-out cross-validation) 
 
 ##### multi_subject_binary.py                           
 
