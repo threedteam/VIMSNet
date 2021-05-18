@@ -10,19 +10,19 @@ RBP (relative band power)
 
 
 ## code
-loocv.py                                          
+##### loocv.py                                          
 
 LOOCV (leave-one-out cross-validation) 
 
-multi_subject_binary.py                           
+##### multi_subject_binary.py                           
 
 Multiple-subject binary classification
 
-multi_subject_four_level.py                       
+##### multi_subject_four_level.py                       
 
 Multiple-subject four-level classification
 
-per_subject.py                                     
+##### per_subject.py                                     
 
 Per-subject binary classification
 
