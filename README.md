@@ -27,7 +27,7 @@ RBP (relative band power)
 ###### Per-subject binary classification
 
 ### model/best_model
-The best model for 1d-cnn has been saved in the directory: vims_detection_1d-cnn_classifier/model/best_model/...
+The best model for VIMSNet has been saved in the directory: VIMSNetr/model/best_model/...
 
 These best models can be loaded to reproduce the results in the paper.
 
