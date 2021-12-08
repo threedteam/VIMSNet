@@ -1,4 +1,4 @@
-# vims_detection_1d-cnn_classifier
+# VIMSNet
 Conv1D,  VIMS detection,  binary/multiple classifier
 
 ## data
